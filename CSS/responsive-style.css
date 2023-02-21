@@ -1,0 +1,230 @@
+@media(max-width:1400px){
+/* 4.4 Project */
+
+.project_wrapper h3{
+    font-size: 1.6rem;
+}
+.project_wrapper .card{
+   padding: 2rem;
+}
+
+
+}
+
+
+@media(max-width:1251px){
+    /* custom css */
+
+h1{
+    font-size: 4.375rem;
+}
+h2{
+font-size: 2.1875rem;
+}
+h3{
+    font-size: 1.4375rem;
+    }
+
+    /* accordian */
+    .main_menu_wrapper .accordion-body{
+        padding: 2.25rem;
+    }
+
+
+    /* about */
+    .main_menu_wrapper .card_detail{
+        padding: .625rem;
+        top: 1.75rem;
+    }
+    .main_menu_wrapper .card_detail ul li{
+        padding: .3125rem 0;
+        
+    }
+    
+
+    
+}
+
+
+@media(max-width:992px){
+    /* custom css */
+
+    h1{
+        font-size: 3.125rem;
+        line-height: 1.3;
+    }
+    h2{
+    font-size: 1.875rem;
+    }
+    h3{
+        font-size: 1.25rem;
+        }
+
+     a{
+        font-size: 1rem;
+     }   
+     .icon-design{
+        width: 4.625rem;
+        height: 4.625rem;
+     }
+  
+
+
+
+
+     /* accordion */
+     .main_menu_wrapper .accordion-header .accordion-header{
+        line-height: 5.875;
+     }
+     .main_menu_wrapper .accordion-header.icon-box,
+     .main_menu_wrapper .accordion-header .accordion-button:after{
+        width: 6rem;
+     }
+     
+     /*  Services */
+     .project_wrapper .card{
+        padding: 1.75rem 1.5rem;
+     }
+     
+     /*  Achievement */
+     .achievement_wrapper .profile-box{
+        padding: 1rem;
+     }
+
+     .achievement_wrapper .card{
+        padding: 1.25rem;
+     }
+     .achievement_wrapper .description-box{
+        padding-left: 1rem;
+     }
+
+    
+}
+
+
+@media(max-width:767px){
+     /* custom css */
+    h1{
+        font-size:1.875rem;
+       
+    }
+    h2{
+    font-size: 1.25rem;
+    }
+    h3{
+        font-size: 1.125rem;
+        }
+
+     p{
+        font-size: .875rem;
+     }   
+    
+    
+ /* Resume */
+
+}
+
+
+@media(max-width:576px){
+      /* custom css */
+a{
+    font-size: 0.8125rem;
+}
+.main-btn{
+    padding: .5rem .75rem;
+    font-size: .8125;
+}
+
+
+      /* Navbar */
+     .header_wrapper .navbar-brand img{
+        max-width: 6.75rem;
+     }
+      /* Banner */
+      .banner_wrapper .social-icon a img{
+        width:1.125rem;
+        height: 1.125rem;
+       
+    }
+      /* accordian */
+      .main_menu_wrapper .accordion-header .accordion-header{
+        line-height: 3.875;
+     }
+     .main_menu_wrapper .accordion-header.icon-box,
+     .main_menu_wrapper .accordion-header .accordion-button:after{
+        width: 4rem;
+     }
+     .main_menu_wrapper .accordion-header.icon-box img{
+        width:1.875rem;
+     }
+     .main_menu_wrapper .accordion-header .accordion-button:after{
+        background-size: 1.7rem;
+     }
+     .main_menu_wrapper .accordion-body{
+        padding: 1.25rem;
+     }
+
+   
+    
+
+
+      /* resume */
+      /* Achievement */
+
+      .achievement_wrappe .carousel-indicators{
+        bottom:1rem;
+
+      }
+
+
+      .achievement_wrapper .profile-box{
+        text-align: center;
+        border-radius: .5rem .5rem 0 0;
+     }
+
+     .achievement_wrapper .card{
+        border-radius:0 0 .5rem .5rem;
+       
+     }
+     /* .achievement_wrapper .profile-box img{
+      width:100%;
+     } */
+
+
+
+
+
+
+}
+
+
+@media(max-width: 490px){
+    /* about */
+    .about_wrapper .accordion-body .card_img {
+        display: none;
+    }
+    .about_wrapper .card_detail{
+        position: unset;
+        width: 100%;
+    }
+
+    /* achievemen */
+      .achievement_wrapper .profile-box img{
+      width:100%;
+     }
+    /* portfolio */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
